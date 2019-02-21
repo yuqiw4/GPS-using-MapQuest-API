@@ -6,7 +6,7 @@ implemented with Python 3
 
 The following is an example of the program's execution, as it should be. Boldfaced, italicized text indicates input, while normal text indicates output.Note that the map data (the maneuvers, latitudes and longitudes, etc.) are hypothetical; I haven't taken them directly from MapQuest, since the goal of this example is to demonstrate the format.  
   
-****3  
+***3  
 4533 Campus Dr, Irvine, CA  
 1111 Figueroa St, Los Angeles, CA  
 3799 S Las Vegas Blvd, Las Vegas, NV  
@@ -15,7 +15,7 @@ LATLONG
 STEPS  
 TOTALTIME  
 TOTALDISTANCE  
-ELEVATION****  
+ELEVATION***   
   
 LATLONGS  
 33.68N 117.77W  
